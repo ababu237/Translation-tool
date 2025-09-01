@@ -2,7 +2,7 @@ import pandas as pd
 from deep_translator import GoogleTranslator
 import streamlit as st
 from io import BytesIO
-
+import openpyxl
 # Translating Tool
 
 
